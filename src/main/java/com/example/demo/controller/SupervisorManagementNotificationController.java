@@ -64,5 +64,4 @@ public class SupervisorManagementNotificationController {
     errors.put("message", "Validation failed for the request");
     return ResponseEntity.badRequest().body(errors);
   }
-  
 }

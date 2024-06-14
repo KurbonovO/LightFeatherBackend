@@ -5,14 +5,13 @@ import lombok.Data;
 @Data
 public class SupervisorManagementNotificationResponse {
 
-    private String id;
+  private String id;
 
-    private String phone;
+  private String phone;
 
-    private String jurisdiction;
+  private String jurisdiction;
 
-    private String firstName;
+  private String firstName;
 
-    private String lastName;
-
+  private String lastName;
 }

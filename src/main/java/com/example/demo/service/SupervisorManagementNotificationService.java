@@ -52,5 +52,4 @@ public class SupervisorManagementNotificationService {
         + SPACE_DASH_SPACE
         + response.getFirstName();
   }
-
 }

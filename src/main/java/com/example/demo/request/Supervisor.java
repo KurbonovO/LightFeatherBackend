@@ -32,5 +32,4 @@ public class Supervisor {
   @NotBlank(message = "Supervisor is mandatory")
   @Schema(defaultValue = "Jane")
   private String supervisor;
-  
 }
